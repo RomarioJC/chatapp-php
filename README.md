@@ -1,2 +1,2 @@
-# chatapp-php
- Repositorio para o meu primeiro chat app, feitocom php, ajax e mysql
+# ChatApp
+ Repositório para o meu ChatApp, feito em linguagem PHP, ajax e mysql
